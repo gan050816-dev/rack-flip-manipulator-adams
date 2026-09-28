@@ -1,0 +1,13 @@
+*.log
+*.msg
+*.out
+*.res
+*.gra
+*.req
+*.tmp
+~$*
+.DS_Store
+Thumbs.db
+*.uploading.cfg
+*.bin
+*.bin_d
